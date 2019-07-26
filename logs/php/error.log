@@ -1,0 +1,15 @@
+[25-Jul-2019 07:48:10 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
+[25-Jul-2019 07:48:11 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
+[25-Jul-2019 08:53:26 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/mindtest/index.php on line 8
+[25-Jul-2019 10:25:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/mindtest/functions.php on line 4
+[25-Jul-2019 10:40:56 UTC] PHP Parse error:  syntax error, unexpected 'get_theme_file_uri' (T_STRING), expecting ',' or ')' in /app/public/wp-content/themes/mindtest/functions.php on line 4
+[25-Jul-2019 11:06:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/mindtest/page.php on line 7
+[25-Jul-2019 11:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /app/public/wp-content/themes/mindtest/page.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/mindtest/page.php on line 8
+[25-Jul-2019 11:17:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/mindtest/functions.php on line 17
+[25-Jul-2019 13:33:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/mindtest/functions.php on line 17
